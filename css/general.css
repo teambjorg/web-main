@@ -77,6 +77,7 @@ margin: auto;
 	font-family: arvo;
 	font-weight: 300;
 	letter-spacing: 6px;
+	text-shadow:-2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 .h3_home{font-weight: 300;}
@@ -243,10 +244,10 @@ color: #ECEBEB;
 
 .intro-header {
 	height: 100%; /* Full PAge */
-	padding-top: 50px; /*  you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 50px;
 	color: #f8f8f8;
-	background: url(../img/intro/intro_flamingo.jpg) no-repeat center center;
+	background: url(../img/intro/intro5.jpg) no-repeat center center;
 	background-size: cover;
 	text-align: center;
 }
